@@ -1,0 +1,1 @@
+{"name":"파크골프 여름철 쌩쌩 안전앱","description":"여름철 파크골프를 즐기시는 어르신들을 위한 안전 도우미 앱입니다. 큰 글씨와 쉬운 조작으로 기온 신호등, 물 마시기 알림, 119 긴급 버튼, 휴식 타이머 기능을 제공합니다.","requestFramePermissions":["geolocation"],"majorCapabilities":["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]}
